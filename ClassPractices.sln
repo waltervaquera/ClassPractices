@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice1", "Practice1\Practice1.csproj", "{1343F084-737B-41D3-A68A-99606F5FA940}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice1", "Practice1\Practice1.csproj", "{1343F084-737B-41D3-A68A-99606F5FA940}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice1part2", "Practice1part2\Practice1part2.csproj", "{DF0FE799-1393-4E7F-9208-F3C1EB573773}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice1part2", "Practice1part2\Practice1part2.csproj", "{DF0FE799-1393-4E7F-9208-F3C1EB573773}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2", "Practice2\Practice2.csproj", "{09005014-3358-4999-A05E-44060B492B4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice2", "Practice2\Practice2.csproj", "{09005014-3358-4999-A05E-44060B492B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice3", "Practice3\Practice3.csproj", "{BE432A73-6973-4869-9C64-2D6C1AFE5FE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{09005014-3358-4999-A05E-44060B492B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09005014-3358-4999-A05E-44060B492B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09005014-3358-4999-A05E-44060B492B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE432A73-6973-4869-9C64-2D6C1AFE5FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE432A73-6973-4869-9C64-2D6C1AFE5FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE432A73-6973-4869-9C64-2D6C1AFE5FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE432A73-6973-4869-9C64-2D6C1AFE5FE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
